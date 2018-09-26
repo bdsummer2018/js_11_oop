@@ -41,5 +41,8 @@ class Good {
 
 let g = new Good("Vasia",9999,"202vas");
 
+
+
+
 console.log(g.name);
 console.log(g.price);
